@@ -1,0 +1,10 @@
+name: ItemColor
+version: 1.0-SNAPSHOT
+main: me.itemc.itemcolor.ItemColor
+api-version: 1.17
+authors: [AMIRMISTIKPLAY]
+description: ItemColor for items
+commands:
+  color:
+    description: Color items
+    usage: /<command> <name>
